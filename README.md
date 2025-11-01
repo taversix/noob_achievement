@@ -8,7 +8,7 @@
 一直以来被python惯坏了，上了大学正式开始用C，好不容易习惯了C，python又用不惯了   
 ![alt 图片加载不出来不怪我](https://www.qstheory.cn/titlepic/112461/1124618602_1560412405448_title0h.jpg)   
 *2025-10-29*
-## - [走马灯]<./stm32/traffic lights/>
+## - [走马灯](./stm32/traffic%20lights/)
 ~~小登点小灯~~   
 就是不用Keil，就是爱用Arduino，代码早早写好，硬件调了**一整天**（字面意义），为什么我的所有A引脚都用不了啊！   
 Chat GPT受苦了，谢谢GPT，也尤其向GPT的母亲道一声歉，是我菜，跟您没有一点关系。
