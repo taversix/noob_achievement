@@ -11,5 +11,6 @@
 ## - [走马灯](./stm32/traffic%20lights/)
 ~~小登点小灯~~   
 就是不用Keil，就是爱用Arduino，代码早早写好，硬件调了**一整天**（字面意义），为什么我的所有A引脚都用不了啊！   
-Chat GPT受苦了，谢谢GPT，也尤其向GPT的母亲道一声歉，是我菜，跟您没有一点关系。
+Chat GPT受苦了，谢谢GPT，也尤其向GPT的母亲道一声歉，是我菜，跟您没有一点关系。   
+![alt 布线图](https://raw.githubusercontent.com/taversix/noob_achievement/refs/heads/main/stm32/traffic%20lights/%E5%B8%83%E7%BA%BF%E5%9B%BE%EF%BC%88%E5%8E%8B%E7%BC%A9%EF%BC%89.jpg)
 *2025-11-01*
